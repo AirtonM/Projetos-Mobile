@@ -4,7 +4,7 @@ function somar(a: number, b: number): number {
 }
 
 // Chamar a função com os tipos corretos
-let resultado: number = somar("10", 5);
+let resultado: number = somar(10, 5);
 console.log(`Resultado da soma: ${resultado}`);
 
 // Exemplo de erro de tipagem:

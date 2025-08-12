@@ -1,0 +1,24 @@
+{
+  "name": "projetos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calculadora.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AirtonM/Projetos-Mobile.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AirtonM/Projetos-Mobile/issues"
+  },
+  "homepage": "https://github.com/AirtonM/Projetos-Mobile#readme",
+  "devDependencies": {
+    "typescript": "^5.9.2"
+  }
+}
