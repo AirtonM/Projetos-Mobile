@@ -1,11 +1,13 @@
+"use strict";
 // Declaração de tipos primitivos
-var nome = "João";
-var idade = 25;
-var estaAtivo = true;
+Object.defineProperty(exports, "__esModule", { value: true });
+let nome = "João";
+let idade = 25;
+let estaAtivo = true;
 // Exemplo de erro de tipagem:
-var erro = "10"; // Erro de compilação! "Type 'number' is not assignable to type 'string'."
+let erro = 10; // Erro de compilação! "Type 'number' is not assignable to type 'string'."
 // Exibindo os valores no console
-console.log("Nome: ".concat(nome));
-console.log("Idade: ".concat(idade));
-console.log("Ativo: ".concat(estaAtivo));
+console.log(`Nome: ${nome}`);
+console.log(`Idade: ${idade}`);
+console.log(`Ativo: ${estaAtivo}`);
 //console.log(`Erro: ${erro}`);
