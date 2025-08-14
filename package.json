@@ -20,5 +20,10 @@
   "homepage": "https://github.com/AirtonM/Projetos-Mobile#readme",
   "devDependencies": {
     "typescript": "^5.9.2"
+  },
+  "dependencies": {
+    "@expo/metro-runtime": "^5.0.4",
+    "react-dom": "^19.1.1",
+    "react-native-web": "^0.21.0"
   }
 }
