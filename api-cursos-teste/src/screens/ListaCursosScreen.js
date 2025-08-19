@@ -4,7 +4,7 @@ import axios from 'axios';
 
 // Lembre-se: Use o IP da sua máquina na rede local, não 'localhost'!
 // Exemplo: 'http://192.168.1.10:3000/cursos'
-const API_URL = 'http://SEU_IP_LOCAL:3000/cursos';
+const API_URL = 'http://192.168.211.22:3000/cursos';
 
 // O componente agora recebe a propriedade "navigation" automaticamente do StackNavigator
 export default function ListaCursosScreen({ navigation }) {

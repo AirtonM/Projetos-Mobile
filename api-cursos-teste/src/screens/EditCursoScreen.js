@@ -3,7 +3,7 @@ import { View, TextInput, Button, StyleSheet, Alert, Text, ActivityIndicator } f
 import axios from 'axios';
 
 // Lembre-se de usar o seu IP local
-const API_URL = 'http://SEU_IP_LOCAL:3000/cursos';
+const API_URL = 'http://192.168.211.22:3000/cursos';
 
 export default function EditCursoScreen({ route, navigation }) {
   // Recebe o ID do curso que foi passado como parâmetro pela tela anterior.

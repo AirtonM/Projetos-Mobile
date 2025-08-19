@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "aprofundandoConteudo",
-    "slug": "aprofundandoConteudo",
+    "name": "api-cursos",
+    "slug": "api-cursos",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -21,14 +21,14 @@
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true,
-      "package": "com.airtonm.aprofundandoConteudo"
+      "package": "com.airtonm.apicursos"
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
     "extra": {
       "eas": {
-        "projectId": "7341d9e0-e290-467c-af4d-2ca26c785e53"
+        "projectId": "501021f1-2f42-4509-aac3-c4ba6ef5d109"
       }
     }
   }

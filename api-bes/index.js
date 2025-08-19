@@ -10,7 +10,6 @@ app.use(express.json());
 const knexConfig = require('./knexfile').development;
 const knex = require('knex')(knexConfig);
 
-
 // ROTA: Ler TODOS os cursos (GET /cursos)
 app.get('/cursos', async (req, res) => {
   try {

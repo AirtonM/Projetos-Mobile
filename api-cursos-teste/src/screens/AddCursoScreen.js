@@ -3,7 +3,7 @@ import React, { useState } from 'react';
 import { View, TextInput, Button, StyleSheet } from 'react-native';
 import axios from 'axios';
 
-const API_URL = 'http://SEU_IP_LOCAL:3000/cursos';
+const API_URL = 'http://192.168.211.22:3000/cursos';
 
 export default function AddCursoScreen({ navigation }) {
   const [nome, setNome] = useState('');

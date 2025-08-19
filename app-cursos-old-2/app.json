@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "aprofundandoConteudo",
-    "slug": "aprofundandoConteudo",
+    "name": "app-cursos",
+    "slug": "app-cursos",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -20,16 +20,10 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true,
-      "package": "com.airtonm.aprofundandoConteudo"
+      "edgeToEdgeEnabled": true
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    },
-    "extra": {
-      "eas": {
-        "projectId": "7341d9e0-e290-467c-af4d-2ca26c785e53"
-      }
     }
   }
 }
