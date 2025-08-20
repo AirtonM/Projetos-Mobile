@@ -10,4 +10,4 @@ module.exports = {
       directory: './migrations' // Diretório para versionamento de schema
     }
   }
-}; 
+};

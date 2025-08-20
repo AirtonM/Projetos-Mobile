@@ -1,3 +1,4 @@
+
 // Em migrations/TIMESTAMP_criar_tabela_cursos.js
 exports.up = function(knex) {
   return knex.schema.createTable('cursos', table => {
@@ -9,4 +10,4 @@ exports.up = function(knex) {
 
 exports.down = function(knex) {
   return knex.schema.dropTable('cursos');
-};  
+};

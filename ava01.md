@@ -2,7 +2,7 @@
 
 **Disciplina:** Desenvolvimento de Aplicações Móveis  
 **Professor(a):** Airton Lima Marinho
-**Data de Entrega:** [Definir a Data de Entrega]  
+**Data de Entrega:** 23/08/2025
 **Repositório:** `ava01`
 
 ---
@@ -90,3 +90,4 @@ Para testar a aplicação, ambos os servidores (backend e frontend) precisam est
 -   Garanta que as pastas `api-estoque` e `app-estoque` estejam na raiz do repositório.
 -   A entrega será a versão final presente na `branch main` na data e horário estipulados.
 -   Não inclua a pasta `node_modules` nos commits (utilize um arquivo `.gitignore`).
+-   Envie o link do repositório `ava01` no sigaa
